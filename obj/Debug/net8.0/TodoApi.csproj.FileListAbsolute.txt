@@ -133,3 +133,4 @@ C:\Users\syahm\code\msa\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
 C:\Users\syahm\code\msa\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 C:\Users\syahm\code\msa\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 C:\Users\syahm\code\msa\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+C:\Users\syahm\code\msa\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
